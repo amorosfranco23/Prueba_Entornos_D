@@ -1,1 +1,0 @@
-Aprovecha servidor gráfico --> proporciona acceso gráfico

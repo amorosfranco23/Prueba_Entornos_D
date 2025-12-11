@@ -1,1 +1,0 @@
-Dibujar elementos pantalla
